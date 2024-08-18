@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "Institute Type": "Jawaharlal Institute of\rPostgraduate Medical\rEducation and Research",
+            "Institute": "JIPMER\rKARAIKAL(2005\r22)",
+            "Program": "MBBS",
+            "Gender": "Both Male and\rFemale Seats",
+            "Quota": "Internal -\rPuducherr\ry UT\rDomicile",
+            "Open": "6",
+            "Open PwD": "0",
+            "General-\rEWS": "0",
+            "General-\rEWS PwD": "1",
+            "OBC": "5",
+            "OBC PwD": "0",
+            "SC": "3",
+            "SC PwD": "0",
+            "ST": "1",
+            "ST PwD": "0",
+            "TotalSeats": "16"
+        },
+        {
+            "Institute Type": "Jawaharlal Institute of\rPostgraduate Medical\rEducation and Research",
+            "Institute": "JIPMER\rKARAIKAL(2005\r22)",
+            "Program": "MBBS",
+            "Gender": "Both Male and\rFemale Seats",
+            "Quota": "Open Seat\rQuota",
+            "Open": "17",
+            "Open PwD": "1",
+            "General-\rEWS": "5",
+            "General-\rEWS PwD": "0",
+            "OBC": "11",
+            "OBC PwD": "1",
+            "SC": "7",
+            "SC PwD": "0",
+            "ST": "3",
+            "ST PwD": "0",
+            "TotalSeats": "45"
+        },
+        {
+            "Institute Type": "Jawaharlal Institute of\rPostgraduate Medical\rEducation and Research",
+            "Institute": "JIPMER\rPUDUCHERRY(2\r00521)",
+            "Program": "MBBS",
+            "Gender": "Both Male and\rFemale Seats",
+            "Quota": "Internal -\rPuducherr\ry UT\rDomicile",
+            "Open": "18",
+            "Open PwD": "1",
+            "General-\rEWS": "5",
+            "General-\rEWS PwD": "0",
+            "OBC": "12",
+            "OBC PwD": "1",
+            "SC": "7",
+            "SC PwD": "0",
+            "ST": "4",
+            "ST PwD": "0",
+            "TotalSeats": "48"
+        }
+    ],
+    [
+        {
+            "Institute Type": "Jawaharlal Institute of\rPostgraduate Medical\rEducation and Research",
+            "Institute": "JIPMER\rPUDUCHERRY(2\r00521)",
+            "Program": "MBBS",
+            "Gender": "Both Male and\rFemale Seats",
+            "Quota": "Open Seat\rQuota",
+            "Open": "53",
+            "Open PwD": "2",
+            "General-\rEWS": "12",
+            "General-\rEWS PwD": "1",
+            "OBC": "34",
+            "OBC PwD": "2",
+            "SC": "19",
+            "SC PwD": "1",
+            "ST": "9",
+            "ST PwD": "1",
+            "TotalSeats": "134"
+        }
+    ]
+]
